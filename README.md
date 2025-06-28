@@ -33,7 +33,7 @@
 | **Search Bar** | `flutter_typeahead` |
 | **File Handling** | `file_picker`, Custom FileUtils |
 | **State Management** | Stateful Widgets |
-| **Storage** | Custom local save via `StorageService` |
+| **Storage** | Custom local save via `StorageService` `Shared Preferences` |
 | **UI** | Material Design with custom assets |
 
 ---
