@@ -17,9 +17,6 @@
 
 ---
 
-## 📱 Screenshots
-
-> 📌 Add screenshots here of:
 - The main map view  
 - City search UI  
 - Filter dialog  
