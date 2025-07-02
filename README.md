@@ -1,7 +1,7 @@
 # 🗺️ iMap – Interactive Geo Mapping App
 
-**iMap** is a Flutter-based interactive mapping application that allows users to search for cities, visualize data points on a map, and upload custom datasets in CSV or JSON format. Users can filter the displayed data by population range and view city-specific markers with animated effects.
-
+**iMap** is a Flutter-based interactive mapping application that allows users to search for cities, visualize data points on a map, and upload custom datasets in CSV or JSON format. Users can filter the displayed data by population range and view city-specific markers with animated effects. This complete app was designed in figma 
+https://www.figma.com/design/czqTlxOKpEmvONSxN5DGwi/microgrid?node-id=303-579&t=MQqDRtOek5M1QIeL-1
 ---
 
 ## 🚀 Features
